@@ -1,7 +1,9 @@
 # Pakistan-Exchange-Rate-and-Inflation-Analysis
 A research-based Excel dashboard analyzing the relationship between Pakistan's exchange rate and inflation (2020–2025).
 # 📊 Exchange Rate Depreciation and Inflation in Pakistan (2020–2025)
+## 📷 Dashboard Preview
 
+![Dashboard](Dashbaord.png)
 ## 📖 Project Overview
 
 This independent research project examines the relationship between Pakistan's USD/PKR exchange rate and inflation from January 2020 to June 2025.
